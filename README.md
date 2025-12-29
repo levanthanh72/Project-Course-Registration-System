@@ -6,8 +6,8 @@
 | STT | MSSV | Họ và Tên | Vai trò | Nhiệm vụ chính |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | 066206008314 | **Lê Văn Thành** | **Nhóm trưởng (Dev A)** | Sơ đồ lớp, Mô hình dữ liệu, Logic cốt lõi |
-| 2 | 052206011262 | **Nguyễn Văn Minh** | Thành viên (Dev B) | Sơ đồ DFD, Chức năng Admin, Thiết kế giao diện |
-| 3 | 074206001933 | **Lê Quốc Đạt** | Thành viên (Dev C) | Sơ đồ Use Case, Chức năng Sinh viên, Kiểm thử |
+| 2 | 052206011262 | **Nguyễn Văn Minh** | Thành viên (Dev B) | Sơ đồ DFD, Chức năng Admin, Giao diện thiết kế |
+| 3 | 074206001933 | **Lê Quốc Đạt** | Thành viên (Dev C) | Sơ đồ Use Case, Chức năng Sinh viên, Kiểm tra |
 
 ## 🛠️ 2. TỔNG QUAN KỸ THUẬT
 - **Ngôn ngữ lập trình:** C++ (Console Application).
