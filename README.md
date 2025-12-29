@@ -4,9 +4,9 @@
 ### 1. THÔNG TIN NHÓM (GROUP MEMBERS)
 | STT | MSSV | Họ và Tên | Vai trò |
 | :--- | :--- | :--- | :--- |
-| 1 | 066206008314 | Lê Văn Thành | Nhóm trưởng (Dev A) |
+| 1 | 066206008314 | Lê văn Thành  | Nhóm trưởng (Dev A) |
 | 2 | 052206011262 | Nguyễn Văn Minh  | Thành viên (Dev B) |
-| 3 | 074206001933 | Lê Văn Thành  | Thành viên (Dev C) |
+| 3 | 074206001933 | Lê Quốc Đạt  | Thành viên (Dev C) |
 
 ### 2. GIỚI THIỆU ĐỀ TÀI
 Hệ thống quản lý đăng ký học phần giúp sinh viên tra cứu và đăng ký môn học theo tín chỉ.
