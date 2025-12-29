@@ -5,7 +5,7 @@
 ## 👥 1. THÀNH VIÊN NHÓM
 | STT | MSSV | Họ và Tên | Vai trò | Nhiệm vụ chính |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | 066206008314 | **Lê Văn Thành** | **Nhóm trưởng (Dev A)** | Class Diagram, Data Model, Core Logic |
+| 1 | 066206008314 | Lê Văn Thành  | nhóm trưởng (DEV A) | Class Diagram, Data Model, Core Logic |
 | 2 | 052206011262 | Nguyễn Văn Minh | Thành viên (Dev B) | DFD Diagram, Admin Function, UI Design |
 | 3 | 074206001933 | Lê Quốc Đạt | Thành viên (Dev C) | Use Case Diagram, Student Function, Testing |
 
