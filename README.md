@@ -1,6 +1,6 @@
 # 🎓 ĐỒ ÁN: HỆ THỐNG ĐĂNG KÝ HỌC PHẦN
 - **Môn học:** Công nghệ phần mềm
-- **Giảng viên:** (Điền tên Cô vào đây)
+- **Giảng viên:** Trần Thị Mỹ Tiên 
 - **Nhóm trưởng:** Lê Văn Thành
 
 ---
