@@ -1,26 +1,24 @@
-# DO AN MON HOC: HE THONG DANG KY HOC PHAN
-## COURSE REGISTRATION SYSTEM
+# 📚 ĐỒ ÁN: HỆ THỐNG ĐĂNG KÝ HỌC PHẦN
+> **Môn học:**  Công nghệ phần mềm
+> **Trạng thái:** Stage 1 & 2 (Phân tích & Thiết kế)
 
-### 1. THÔNG TIN NHÓM (GROUP MEMBERS)
-| STT | MSSV | Họ và Tên | Vai trò |
-| :--- | :--- | :--- | :--- |
-| 1 | 066206008314 | Lê văn Thành  | Nhóm trưởng (Dev A) |
-| 2 | 052206011262 | Nguyễn Văn Minh  | Thành viên (Dev B) |
-| 3 | 074206001933 | Lê Quốc Đạt  | Thành viên (Dev C) |
+## 👥 1. THÀNH VIÊN NHÓM
+| STT | MSSV | Họ và Tên | Vai trò | Nhiệm vụ chính |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 066206008314 | **Lê Văn Thành** | **Nhóm trưởng (Dev A)** | Class Diagram, Data Model, Core Logic |
+| 2 | 052206011262 | Nguyễn Văn Minh | Thành viên (Dev B) | DFD Diagram, Admin Function, UI Design |
+| 3 | 074206001933 | Lê Quốc Đạt | Thành viên (Dev C) | Use Case Diagram, Student Function, Testing |
 
-### 2. GIỚI THIỆU ĐỀ TÀI
-Hệ thống quản lý đăng ký học phần giúp sinh viên tra cứu và đăng ký môn học theo tín chỉ.
-- **Giai đoạn (Stage):** 1 & 2 (Phân tích & Thiết kế)
-- **Công cụ:** Visual Studio / VS Code
-- **Ngôn ngữ:** C++ 
-- **Cơ sở dữ liệu:** File Text (.txt)
+## 🛠️ 2. CÔNG NGHỆ SỬ DỤNG
+- **Ngôn ngữ:** C++ (Console Application)
+- **Lưu trữ dữ liệu:** File Text (.txt)
+- **Công cụ vẽ sơ đồ:** app.diagrams.net & PlantUML
 
-### 3. HƯỚNG DẪN CÀI ĐẶT (INSTALLATION)
-1. Clone dự án về máy:
-   git clone https://github.com/levanthanh72/Project-Course-Registration-System.git
-2. Mở project bằng Visual Studio.
-3. Build và Run chương trình.
+## 🚀 3. HƯỚNG DẪN CHẠY CHƯƠNG TRÌNH
+1. **Clone dự án:** `git clone https://github.com/levanthanh72/Project-Course-Registration-System.git`
+2. **Mở Project:** Sử dụng Visual Studio 2022 hoặc VS Code.
+3. **Build & Run:** Nhấn F5 để khởi chạy giao diện Console.
 
-### 4. TÀI KHOẢN DEMO (Dữ liệu mẫu)
-- **Admin:** admin / 123456
-- **Sinh viên:** sv001 / 123
+## 🔑 4. TÀI KHOẢN DEMO
+- **Admin:** `admin` / `123456`
+- **Sinh viên:** `sv001` / `123`
